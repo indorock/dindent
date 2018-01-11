@@ -1,15 +1,15 @@
 {
-	"name": "gajus/dindent",
+	"name": "indorock/dindent",
 	"version": "2.3.0",
-	"description": "HTML indentation library for development and testing.",
+	"description": "HTML indentation library for development and testing. Forked from https://github.com/gajus/dindent",
 	"keywords": ["HTML", "indent", "format"],
-	"homepage": "https://github.com/gajus/dindent",
+	"homepage": "https://github.com/indorock/dindent",
 	"type": "library",
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
-			"name": "Gajus Kuizinas",
-			"email": "gk@anuary.com"
+			"name": "Gajus Kuizinas, Mark Mulder",
+			"email": "mark@markmulder.net"
 		}
 	],
 	"require": {
