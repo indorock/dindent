@@ -1,6 +1,5 @@
 {
 	"name": "indorock/dindent",
-	"version": "2.4.0",
 	"description": "HTML indentation library for development and testing. Forked from https://github.com/gajus/dindent",
 	"keywords": ["HTML", "indent", "format"],
 	"homepage": "https://github.com/indorock/dindent",
